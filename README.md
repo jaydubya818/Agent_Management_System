@@ -9,6 +9,11 @@ AMS (Agent Management System) is a comprehensive B2B SaaS platform designed to b
 1. **🏢 AMS Platform**: Enterprise agent fleet management and observability platform
 2. **🤖 AI Agent Collection**: 134+ specialized development agents with multi-agent orchestration
 
+> **Looking for just the subagents?** The maintained, standalone collection lives in
+> **[governed-claude-subagents](https://github.com/jaydubya818/governed-claude-subagents)**
+> — 116 subagents for Claude Code, installable on their own with no platform attached.
+> This repository is the platform; the agents bundled here exist to exercise it.
+
 ## 📁 Repository Structure
 
 ```
