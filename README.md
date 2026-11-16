@@ -266,8 +266,6 @@ cd Open-SWE-With-Agents
 - **Cloud Platforms**: AWS, Azure, GCP
 - **Communication**: Slack, Teams, Discord
 
-For detailed agent specifications and capabilities, see [Open-SWE-With-Agents/AGENTS_DETAILED_README.md](Open-SWE-With-Agents/AGENTS_DETAILED_README.md).
-
 ## Contact
 
 - **Project Lead**: [Your Name](mailto:your.email@example.com)
